@@ -24,4 +24,31 @@ karma                                     ^1.3.0  →   ^2.0.2
 karma-jasmine-html-reporter               ^0.2.2  →   ^1.0.0
 protractor                                ^3.3.0  →   ^5.3.1
 
+----------------------------------------
+
+Then: 
+
++ angular-in-memory-web-api@0.6.0
++ @angular/forms@5.2.10
++ angular2-jwt@0.2.3
++ auth0-lock@11.5.2
++ bootstrap@4.1.0
++ systemjs@0.21.3
++ @angular/compiler@5.2.10
++ @angular/http@5.2.10
++ @angular/upgrade@5.2.10
++ @angular/platform-browser@5.2.10
++ @angular/common@5.2.10
++ @angular/core@5.2.10
++ rxjs@5.5.10
++ @angular/router@5.2.10
++ @angular/platform-browser-dynamic@5.2.10
++ zone.js@0.8.26
+added 24 packages from 13 contributors, removed 260 packages and updated 363 packages in 272.147s
+
+----------------------------------------
+
 Upgrade to NG6
+
+
+----------------------------------------
